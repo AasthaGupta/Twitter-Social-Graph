@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 # @Author: amaneureka
 # @Date:   2017-03-25 08:41:51
-# @Last Modified by:   amaneureka
-# @Last Modified time: 2017-03-25 12:12:11
+# @Last Modified by:   Aastha Gupta
+# @Last Modified time: 2017-03-26 03:39:39
 
 import os
 import glob
@@ -14,8 +14,8 @@ def create_node_and_edge_list(inputfiles):
 	for filename in glob.glob(inputfiles):
 		node_a = os.path.splitext(os.path.basename(filename))[0]
 		nodes.add(node_a)
-		#if len(nodes) > 3000:
-		#	break
+		if len(nodes) > 3000:
+			break
 		with open(filename, 'r') as file:
 			for line in file:
 				node_b = line[:-1]
@@ -24,8 +24,10 @@ def create_node_and_edge_list(inputfiles):
 	print 'dumping nodes...' + str(len(nodes))
 	with open('Datasets/nodes.txt', 'w') as file:
 		file.write('Id;Label\n')
+		id=1
 		for node in nodes:
-			file.write('{};{}\n'.format(node, node))
+			file.write('{};{}\n'.format(id, node))
+			id=id+1
 	print 'dumping edges...' + str(len(edges))
 	with open('Datasets/edges.txt', 'w') as file:
 		file.write('Source;Target\n')
