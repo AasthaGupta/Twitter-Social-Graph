@@ -2,7 +2,7 @@
 # @Author: aastha
 # @Date:   2017-03-25 13:00:24
 # @Last Modified by:   Aastha Gupta
-# @Last Modified time: 2017-03-25 13:27:30
+# @Last Modified time: 2017-03-25 13:38:52
 
 
 import os
@@ -29,6 +29,7 @@ def create_weight_list(inputfiles):
 			f2=followers.get(user2, 0)
 			delta=abs(f1-f2)
 			w=100.00/(1+delta)
+			w=w*(1+min(f1,f2))
 			output_file.write('{};{}\n'.format(edge[:-1], w))
 
 create_weight_list("Datasets/*.dataset")
