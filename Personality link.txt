@@ -1,0 +1,11 @@
+INFJ: Im_INFJ
+INFP: lifeofainfp
+INTP: INTPgroup
+ENFJ: ENFJ_Support
+ESFJ: EsfjCaregiver
+ESFP: ESFPdiscourSe
+ENTP: MissENTP
+
+
+
+
