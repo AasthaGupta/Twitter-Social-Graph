@@ -15,6 +15,7 @@ Recursive calls were made on API to get followers list starting with a base case
 
 ### Project
 This is a part of Acadmic Project Report under the course **Programming-IV** (COE-319) at [**NSIT**](www.nsit.ac.in).
+[Project Report](https://docs.google.com/document/d/1dnsRXbNLHV5tHxmQOi8e8WlNots3cR8M1lqsWqYDPmQ/edit?usp=sharing)
 
 ### Contributors
 - Aastha Gupta (202CO14)
