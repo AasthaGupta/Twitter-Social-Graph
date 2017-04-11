@@ -2,7 +2,7 @@
 # @Author: amaneureka
 # @Date:   2017-03-25 08:41:51
 # @Last Modified by:   Aastha Gupta
-# @Last Modified time: 2017-03-26 03:39:39
+# @Last Modified time: 2017-04-01 11:17:28
 
 import os
 import glob
@@ -14,7 +14,7 @@ def create_node_and_edge_list(inputfiles):
 	for filename in glob.glob(inputfiles):
 		node_a = os.path.splitext(os.path.basename(filename))[0]
 		nodes.add(node_a)
-		if len(nodes) > 3000:
+		if len(nodes) > 99:
 			break
 		with open(filename, 'r') as file:
 			for line in file:
