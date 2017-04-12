@@ -1,0 +1,334 @@
+id,label,timeset,fan_count,category,username,users_can_post,post_activity,talking_about_count,modularity_class,pageranks
+35245929077,Disney Pixar,,14537958,Movie/Television Studio,DisneyPixar,no,0.11,70007,0,0.038336156
+3.50972E+14,Finding Dory,,3106740,Movie,PixarFindingDory,no,0.02,7227,0,0.003378595
+4.53889E+14,Inside Out,,924334,Movie,PixarInsideOut,no,0.02,14149,0,0.002832882
+4.85443E+14,Colin's Friends,,1921726,Community,Coliniseleven,yes,0.17,15394,2,0.003221528
+1.32181E+11,Boo,,21727110,Movie Character,MonstersIncBoo,no,0,26129,0,0.004153669
+3.20726E+14,The Good Dinosaur,,354319,Movie,PixarTheGoodDinosaur,no,0.01,1941,0,0.003977648
+17377140236,Ratatouille,,8553480,Movie,PixarRatatouille,no,0.02,17632,0,0.003672846
+6877151199,Fandango,,2009857,Entertainment Website,Fandango,yes,0.15,312403,1,0.008406774
+1.56129E+14,Brave,,8628973,Movie,PixarBrave,no,0.02,17731,3,0.004586358
+1.07118E+14,Disney Games,,2877878,Games/Toys,DisneyGames,yes,0.03,4754,3,0.009520349
+1.25503E+14,A Bug's Life,,2077776,Movie,PixarABugsLife,no,0.01,1491,0,0.003343346
+29349922628,WALL•E,,8645185,Movie,PixarWallE,no,0.02,12654,0,0.003008798
+1.18195E+11,Up,,14535988,Movie,PixarUp,no,0.04,48761,0,0.004006757
+17765071054,The Incredibles,,7375526,Movie,PixarTheIncredibles,no,0.03,17591,0,0.005287967
+11215611028,"Monsters, Inc.",,14300865,Movie,PixarMonstersInc,no,0.02,19039,0,0.005591732
+15294801701,Finding Nemo,,18948446,Movie,PixarFindingNemo,no,0.02,18691,0,0.004739319
+31159065182,Cars,,16598052,Movie,PixarCars,no,0.01,37607,0,0.007144245
+10498014129,Toy Story,,31905723,Movie,PixarToyStory,no,0.06,72658,3,0.009281476
+11784025953,Disney,,50875649,Arts & Entertainment,Disney,no,0.24,303033,0,0.043584621
+26012002239,Ellen DeGeneres,,27027760,Public Figure,ellentv,yes,0.12,966492,2,0.008295983
+1.11383E+14,Walt Disney Studios,,31146520,Movie/Television Studio,WaltDisneyStudios,no,0.07,17929,0,0.014472012
+1.33117E+11,James P. Sullivan (Sulley),,4945895,Movie Character,MonstersIncSulley,no,0.01,2511,0,0.002567956
+1.36573E+11,Mike Wazowski,,11263273,Movie Character,MonstersIncMikeWazowski,no,0.01,7297,0,0.002567956
+23245476854,Walt Disney Animation Studios,,13632737,Movie,DisneyAnimation,no,0.02,367975,0,0.033575085
+4.98505E+14,Eh Bee,,10629523,Public Figure,ehbeefamily,yes,0.04,296061,0,0.001499737
+2.42125E+11,Los Angeles Zoo and Botanical Gardens,,101160,Zoo,LosAngelesZoo,yes,0.1,4251,1,0.001499737
+1.46658E+14,Jeffrey Wright,,12867,Artist,,yes,0.01,21,0,0.001499737
+1.4317E+15,Anna Paquin,,374849,Artist,AnnaPaquin,yes,0.06,9251,0,0.001499737
+1.47237E+15,Marcus Scribner,,49981,Artist,,yes,0.19,35149,0,0.001499737
+1.60848E+11,Ego,,3146610,Movie Character,RatatouilleEgo,no,0,1524,0,0.001997015
+1.32935E+11,Emile,,2920700,Movie Character,RatatouilleEmile,no,0,943,0,0.001997015
+1.33947E+11,Linguini,,3939282,Movie Character,RatatouilleLinguini,no,0,1953,0,0.001997015
+1.32584E+11,Remy,,4799437,Movie Character,RatatouilleRemy,no,0,2612,0,0.001997015
+7899892356,Rotten Tomatoes,,599820,Entertainment Website,rottentomatoes,no,0.18,40756,1,0.00196929
+2.02798E+14,FandangoNOW,,66206,Product/Service,FandangoNow,no,0.02,106,1,0.001386448
+80500707044,Kevin Hart,,23814764,Comedian,hartkevin,yes,0.03,116108,1,0.001335325
+5.33833E+14,Trumbo,,97349,Movie,TrumboMovie,no,0,107,1,8.87E-04
+4.82722E+14,Bleecker Street,,186638,Movie/Television Studio,BleeckerStFilms,no,0.06,384,1,0.001640298
+8.84348E+14,The Night Before,,390948,Movie,NightBeforeMovie,no,0,324,1,8.58E-04
+7.75726E+14,The Gift Movie,,89044,Movie,GIFTmovie,yes,0,147,1,8.58E-04
+1.70889E+14,Jurassic World,,7867364,Movie,JurassicWorld,yes,0.06,23030,1,0.004177953
+9.18356E+14,DOPE,,237359,Movie,DopeMovie,yes,0.01,474,1,8.71E-04
+3.46692E+14,Steve Jobs,,445861,Movie,stevejobsfilm,yes,0,1661,1,8.58E-04
+2.11774E+14,Helen Hunt,,825309,Artist,helenhunt,no,0.01,4859,1,8.58E-04
+74504778787,Dwight Howard,,4892316,Athlete,DwightHoward,yes,0.05,5199,1,8.58E-04
+1.4454E+11,MOVIECLIPS,,1059954,Entertainment Website,movieclips,no,0.2,116751,1,0.001658268
+3.01503E+14,Loitering With Intent,,1673,Movie,loiteringwithintentmovie,yes,0,1,1,8.58E-04
+5.58366E+14,Fandango Family,,208459,Product/Service,FandangoFamily,yes,0.03,203,1,0.001352872
+1.39493E+14,"I, Frankenstein",,371787,Movie,IFrankensteinMovie,yes,0,350,1,0.001911535
+1.59747E+14,The Hunger Games,,22000175,Movie,TheHungerGamesMovie,no,0.01,18894,1,0.002577812
+3.76347E+14,Only God Forgives,,73153,Movie,onlygodforgivesfilm,yes,0,105,1,8.58E-04
+5.13145E+14,Admission,,34903,Movie,AdmissionMovie,yes,0,38,1,0.001230337
+1.09117E+14,Dead Man Down,,233472,Movie,DeadManDown,yes,0,156,1,8.99E-04
+2.09719E+14,The Incredible Burt Wonderstone,,188897,Movie,burtwonderstone,no,0,107,1,8.90E-04
+4.19835E+14,The Place Beyond The Pines,,155769,Movie,ThePlaceBeyondThePinesMovie,yes,0,164,1,0.001776581
+2.09761E+11,The Lone Ranger,,768394,Movie,TheLoneRanger,no,0,571,1,0.003065187
+1.41317E+14,Rio,,12614590,Other,RioMovies,no,0.01,5181,1,0.005533977
+1.0593E+14,CinemaCon,,13488,Movie Theater,CinemaCon,no,0.07,216,1,0.001081914
+4.79373E+14,Ender's Game,,330261,Movie,EndersGame,yes,0.01,328,1,9.21E-04
+2.01415E+14,Fandango Cine,,29275,Entertainment Website,FandangoCine,yes,0.12,104,3,0.001334191
+2.50492E+14,The Bitter Buddha (Documentary),,3866,Movie,TheBitterBuddha,yes,0,44,1,8.89E-04
+4.53684E+14,The Upside Man,,63991,Movie,UpsideDownTheMovie,yes,0,52,1,8.58E-04
+2.48133E+14,Regency Theatres Agoura Hills,,8924,Movie Theater,RegencyAgouraHills,yes,0.05,75,1,8.58E-04
+1.11163E+14,Regency Theatres,,12323,Movie Theater,RegencyMovies,no,0.05,62,1,8.58E-04
+1.69949E+14,Die Hard,,2723757,Movie,DieHardMovies,no,0,3732,1,0.006033001
+3.9723E+14,The Call,,253168,Movie,CallMovie,yes,0,276,1,8.77E-04
+2.11264E+14,The Impossible,,223040,Movie,TheImpossibleMovie,yes,0,996,1,8.89E-04
+1.10862E+14,FM Radio,,2573,Musician/Band,ilovefmradio,yes,0,1,1,8.58E-04
+3.18682E+11,NBC Olympics,,3362150,TV Network,nbcolympics,no,0.05,11963,1,0.001014906
+1.44137E+14,At Any Price,,28523,Movie,AtAnyPriceFilm,yes,0,15,2,0.001022924
+10377268525,thenewno2,,48824,Musician/Band,thenewno2music,yes,0.02,1648,1,0.001597739
+1.48255E+14,Safe Haven Movie,,957587,Movie,safehavenmovie,yes,0,910,1,9.22E-04
+3.96438E+14,Evil Dead,,1263642,Movie,evildead,no,0,1661,1,9.08E-04
+2.43347E+14,After Earth,,1662776,Movie,AfterEarth,no,0,1211,1,0.001714879
+1.12693E+14,Jack the Giant Slayer,,459223,Movie,jackthegiantslayer,no,0,654,1,0.001849369
+3.99742E+14,Nicholas Hoult,,796836,Actor,NicholasHoult,no,0,3299,1,0.004024161
+5.0379E+14,London Has Fallen,,655328,Movie,LondonHasFallenOfficial,yes,0.01,1010,1,9.30E-04
+4.80312E+14,Stand Up Guys,,66611,Movie,StandUpGuysMovie,yes,0,55,1,0.00221128
+2.55135E+14,Broken City,,128511,Movie,BrokenCityMovie,no,0,130,1,0.006004765
+3.52125E+14,Mama,,3279952,Movie,mamafilm,yes,0,3131,1,0.003211445
+3.20389E+14,Alcon Entertainment,,2782,Media/News Company,AlconEntertainment,yes,0,4,1,8.58E-04
+1.59769E+14,1st Look,,24773,TV Show,1stlooktv,yes,0.06,181,1,8.58E-04
+1.53902E+14,NowLive,,3940,Media/News Company,nowlive,yes,0,1,1,8.87E-04
+83574526405,The Academy,,2722747,Arts & Entertainment,TheAcademy,yes,0.04,14861,1,0.002001352
+2.98587E+14,The Big Wedding,,114797,Movie,TheBigWeddingMovie,yes,0,60,1,0.001911535
+2.42057E+14,The Heat,,648445,Movie,TheHeatMovie,no,0,548,1,8.77E-04
+2.02035E+14,Gangster Squad,,514942,Movie,GangsterSquad,no,0,595,1,9.30E-04
+3.78411E+14,Struck By Lightning,,29261,Movie,StruckbyLightningMovie,yes,0,12,1,8.58E-04
+3.68735E+14,SNITCH,,1028013,Movie,SnitchMovie,yes,0,1157,1,9.08E-04
+1.54588E+14,Let Fury Have the Hour,,1227,Movie,LetFury,yes,0,2,2,0.001022924
+26500661542,Stan Lee,,6413289,Writer,realstanlee,yes,0.74,530925,1,9.08E-04
+4.59669E+14,Promised Land,,22302,Movie,PromisedLandMovie,no,0,33,1,0.001776581
+4.17079E+14,Warm Bodies,,2425282,Movie,WarmBodiesMovie,yes,0,3192,1,0.003108532
+4.90673E+14,Side Effects Movie,,285002,Movie,SideEffectsMovie,yes,0,227,1,8.90E-04
+2.20023E+14,Pitch Perfect,,5778791,Movie,pitchperfectmovie,yes,0.03,20297,1,0.001486755
+2.47002E+14,The Last Stand,,526729,Movie,TheLastStandFilm,yes,0,335,1,0.002224532
+1.50067E+14,Rise of the Guardians,,3526788,Movie,RiseoftheGuardians,no,0,1969,1,0.006310603
+3.33885E+14,Hotel Transylvania,,9707595,Other,HotelT,no,0.01,3521,1,0.001706076
+1.14583E+14,Salmon Fishing in the Yemen,,34441,Movie,SalmonFishingInTheYemen,yes,0,38,1,0.001064147
+1.52561E+14,The Second Best Exotic Marigold Hotel,,109195,Movie,thesecondbestexoticmarigoldhotel,no,0,106,1,8.58E-04
+2.67047E+14,Logan,,11066567,Movie,TheWolverineMovie,no,0.03,11504,1,0.002730688
+45132187794,Screen Actors Guild Awards,,289692,TV/Movie Award,sagawardsofficialpage,no,0.03,1152,1,9.71E-04
+1.20457E+14,The Croods,,2460052,TV Show,TheCroods,yes,0.03,2243,1,0.004846654
+4.0073E+14,Parental Guidance,,40998,Movie,ParentalGuidance,yes,0,91,1,8.58E-04
+11640096627,Warner Bros. Entertainment,,3317700,Company,warnerbrosent,no,0.04,18841,1,0.024004842
+7695091930,Sony Pictures,,25977204,Movie/Television Studio,SonyPictures,no,0.12,5302,1,0.006536394
+50454525729,Focus Features,,334328,Movie/Television Studio,FocusFeatures,yes,0.08,4243,1,0.005404076
+1.08677E+11,Lionsgate,,2392500,Movie/Television Studio,lionsgate,no,0.08,6136,1,0.007052892
+1.03115E+14,Summit Entertainment,,49726,Interest,,no,0,0,2,0.001251246
+67418361170,Cinemark,,1281417,Movie Theater,cinemark,yes,0.22,9600,1,0.001980841
+99881661864,Telemundo,,10811543,TV Network,Telemundo,yes,4.49,2107464,3,0.002106082
+3.34845E+14,Oblivion,,389427,Movie,oblivion,yes,0,420,1,0.003589252
+2.16995E+14,Parker,,416084,Movie,ParkerMovie,yes,0,373,1,8.77E-04
+2.21437E+14,Zero Dark Thirty,,264778,Movie,ZeroDarkThirty,no,0,310,1,9.31E-04
+1.41598E+14,New York Film Critics Circle (NYFCC),,3251,Organization,newyorkfilmcriticscircle,yes,0,4,1,8.58E-04
+27607965984,Magnolia Pictures,,149717,Movie/Television Studio,MagnoliaPictures,yes,0.18,315,1,0.00107702
+2.12216E+11,The Lord of the Rings Trilogy,,13876365,Movie,lordoftheringstrilogy,no,0,8784,1,0.00763521
+1.09497E+11,Regal Cinemas,,2615342,Movie Theater,RegalMovies,yes,0.45,81274,1,0.001028962
+1.75282E+14,Pacific Rim,,1698596,Movie,pacificrimmovie,no,0,1202,1,0.001781408
+1.25628E+14,The Smurfs,,13887510,Other,SmurfsMovie,no,0.11,234691,1,0.001751128
+7774903715,Star Trek,,3830970,Movie,StarTrekMovie,yes,0.01,1376,1,0.001355736
+1.72381E+14,Movie 43,,254386,Movie,WhatIsMovie43,no,0,214,1,9.21E-04
+2.66907E+14,Beautiful Creatures,,1183840,Movie,BeautifulCreaturesMovie,no,0,2006,1,0.002611251
+1.1052E+14,The Mortal Instruments,,1906249,Movie,TheMortalInstruments,no,0,1333,1,0.001670944
+7057882289,Iron Man,,19466463,Fictional Character,ironman,no,0.01,144218,1,0.003953217
+1.26757E+14,Avengers,,14838479,Fictional Character,avengers,no,0.01,371115,1,0.003104813
+1.90285E+14,Man of Steel,,3946670,Movie,manofsteel,no,0,4694,1,0.008168439
+2.98409E+14,Anna Karenina,,316487,Movie,AnnaKareninaTheMovie,yes,0,356,1,0.001798461
+4.0006E+14,The Collection,,110045,Movie,thecollectionmovie,yes,0,140,1,8.99E-04
+2.47466E+14,Citadel,,3529,Movie,citadelfilm,yes,0,6,1,8.58E-04
+1.77046E+14,Oz The Great and Powerful,,1316004,Movie,OzTheGreatAndPowerful,no,0,1049,0,0.002464111
+3.71137E+14,Red Dawn,,362925,Movie,RedDawnFilm,yes,0,279,1,0.001676613
+1.11122E+11,Despicable Me,,17720285,Movie,DespicableMe,yes,0.01,86263,1,0.005449171
+63677016638,IMAX,,3669098,Movie Theater,IMAX,no,0.06,125161,1,0.003299162
+1.0477E+11,DreamWorks Animation,,6121229,Movie/Television Studio,DreamWorksAnimation,no,0.06,7921,1,0.013370496
+2.25869E+14,Hansel & Gretel: Witch Hunters,,1570968,Movie,hanselandgretel3D,no,0,616,1,0.001716147
+6844798654,Paramount Pictures,,10496006,Performance & Event Venue,Paramount,no,0.02,5553,1,0.004273308
+2.96026E+14,Warner Bros. Pictures,,26724495,Movie/Television Studio,WarnerBrosPictures,no,0.16,11308,1,0.022207973
+1.17195E+14,Legendary,,1182283,Media/News Company,legendary,no,0.06,14586,1,0.010120662
+2.15204E+11,Universal Studios Entertainment,,8171235,Movie/Television Studio,universalstudiosentertainment,yes,0.06,24282,1,0.010777823
+2.17156E+14,Wreck-It Ralph,,3231623,Movie,WreckItRalph,no,0.02,4674,0,0.0072711
+3.77914E+14,Jack Reacher Movie,,671512,Movie,JackReacherMovie,no,0.02,409,1,0.001169895
+1.90335E+14,Cobie Smulders,,912568,Artist,CobieSmuldersOfficial,yes,0.04,1974,1,0.001641214
+2.56181E+14,Life of Pi Movie,,2104724,Movie,LifeofPi,no,0,2341,1,9.86E-04
+2.22392E+14,Bullet To The Head,,485330,Movie,bullettotheheadmovie,no,0,589,1,8.77E-04
+1.60617E+14,The Hobbit,,7494209,Movie,TheHobbitMovie,no,0,25345,1,0.013517867
+2.76595E+14,Cloud Atlas,,422601,Movie,cloudatlas,no,0,470,1,8.77E-04
+5852343513,DailyCandy,,341744,Website,DailyCandy,no,0,262,1,0.001282579
+3.13437E+14,Style Network,,138363,TV Network,StyleNetwork,yes,0,96,1,0.001251351
+68863027747,Bravo,,1128027,TV Network,Bravo,no,1.19,40834,1,0.00132259
+89033370735,E! News,,9941504,Entertainment Website,enews,yes,2.43,278661,1,0.001561286
+1.99222E+11,RealD,,1095079,Product/Service,RealD3D,yes,0.03,810,1,0.0034521
+1.91241E+14,DOTS,,882340,Food & Beverage Company,tootsieroll.dots,yes,0.02,11715,1,8.58E-04
+47835406277,DIRECTV,,4344708,Product/Service,directv,yes,4.39,9087,1,8.58E-04
+1.01501E+16,The Expendables,,11369740,Movie,TheExpendablesMovie,no,0.01,7482,1,0.001969839
+3.59565E+14,Inside Films,,162030,Movie,insidefilms,yes,0,67,1,8.58E-04
+3.436E+14,Revolution,,1201747,TV Show,Revolution,no,0,794,1,9.72E-04
+84243625744,eOne Films,,836158,Movie/Television Studio,EntertainmentOneUK,yes,0.02,122,1,9.06E-04
+7224956785,Samsung Mobile USA,,25533919,Product/Service,SamsungMobileUSA,yes,1.53,83232,2,9.62E-04
+2.18145E+14,Jessica Biel,,1624872,Artist,jessicabielofficial,yes,0.12,6612,1,9.02E-04
+1.77367E+14,ParaNorman,,824251,Movie,ParaNorman,yes,0.02,7990,1,0.0019782
+1.95529E+14,Jonah Hill,,2411221,Actor,JonahHill,yes,0.02,630,1,9.67E-04
+14496835660,Ben Stiller,,3441460,Artist,BenStiller,no,0,2545,1,8.58E-04
+1.22611E+14,The Watch,,113391,Movie,thewatchmovie,no,0,106,1,9.12E-04
+1.92551E+14,Joseph Gordon-Levitt,,6308802,Actor,JoeGordonLevitt,no,0.18,197223,1,0.00158708
+93563619387,Step Up Movie,,18961106,Other,stepupmovie,yes,0.03,10611,1,0.002276046
+1.29578E+14,Ice Age Movies,,18075083,Other,IceAge,no,0.01,6192,1,0.005109478
+16559141567,Amazon Music,,329279,Product/Service,AmazonMusic,yes,0.12,2003,2,0.001531653
+1.34426E+14,Frankenweenie,,1970965,Movie,Frankenweenie,no,0,1865,0,0.003688225
+2.25035E+14,The Dark Knight Rises,,6125120,Movie,thedarkknightrises,no,0,4324,1,0.005324809
+1.08187E+14,Django Unchained,,2208744,Movie,unchainedmovie,no,0,2363,1,0.001054968
+9260083050,Alamo Drafthouse Cinema,,163066,Movie Theater,alamodrafthouse,yes,0.1,7152,0,0.00151124
+2.93145E+14,Eat|See|Hear,,33313,Movie Theater,EatSeeHear,yes,0.02,412,1,8.58E-04
+86937680702,Norton,,1375167,Product/Service,Norton,yes,0.1,1470,1,8.58E-04
+2.11718E+14,Visa,,21164170,Financial Service,VisaUnitedStates,no,0,6563,1,0.001720554
+1.34336E+14,Visa,,21158538,Financial Service,Visa,no,0,1232,1,8.58E-04
+1.4305E+14,ConstellationTV,,3956,Product/Service,ConstellationTV,yes,0,5,1,0.001022924
+2.67635E+11,Alyssa Bernal,,324526,Musician/Band,alyssabernal,yes,0.01,263,2,8.58E-04
+38502003238,The Weinstein Company,,230991,Movie/Television Studio,weinsteinco,no,0.04,651,1,0.002126333
+1.07215E+14,The BULLY Project,,1303512,Movie,bullymovie,yes,0.25,35879,2,0.001135886
+2.07108E+11,AMC Theatres,,5315774,Movie,amctheatres,yes,1,57328,1,0.005093988
+2.00956E+14,The Woman in Black,,2096986,Movie,TheWomanInBlackMovie,no,0,1709,1,9.71E-04
+58297122158,Spike,,1620924,TV Channel,Spike,no,0.16,58108,1,0.002565095
+10854154757,Tribeca,,309676,Entertainment Website,Tribeca,no,0.15,3444,2,0.002330029
+6185812851,American Express,,6854887,Product/Service,AmericanExpressUS,no,0.03,10777,2,0.001452171
+11911627997,Pancreatic Cancer Action Network,,168038,Non-Profit Organization,JointheFight,yes,0.2,7360,1,8.58E-04
+15228887806,Special Olympics Southern California,,12683,Non-Profit Organization,specialolympics.socal,yes,0.11,361,2,8.58E-04
+80813793793,Paperless Post,,187844,Website,paperlesspost,no,0,469,2,8.58E-04
+1.24395E+11,Carmike Cinemas,,974687,Movie Theater,CarmikeCinemas,no,0.17,9419,1,0.001467194
+1.16405E+14,Colombiana,,1134266,Movie,Colombiana,yes,0,1143,1,0.008678075
+1.13648E+14,Our Idiot Brother,,100039,Movie,OurIdiotBrother,yes,0,87,1,0.001447972
+43728197555,Starlight Children's Foundation,,14680,Non-Profit Organization,StarlightUK,yes,0.03,301,1,8.58E-04
+25055509149,Zoe Saldana,,2207329,Artist,ZoeSaldana,yes,0.02,8537,1,0.008228212
+1.17612E+14,War for the Planet of the Apes,,3764373,Movie,ApesMovies,no,0.01,12664,1,9.51E-04
+1.20535E+14,The Change-Up,,366847,Movie,thechangeup,yes,0,307,1,8.80E-04
+2.55365E+11,Comic-Con International,,1902814,Non-Profit Organization,comiccon,yes,0.79,8893,1,0.002036445
+2.1262E+14,Glee 3D Movie,,1044693,Movie,Glee3DMovie,yes,0,775,1,9.73E-04
+5718732097,Justin Timberlake,,39191024,Musician/Band,justintimberlake,no,0.02,75208,2,0.002870014
+1.14842E+14,Samsung US,,4431272,Electronics,SamsungUS,yes,0.94,3108,2,0.002307624
+2.16411E+14,Titanic,,56011526,Movie,TitanicMovie,yes,0,79531,1,0.001943993
+2.64315E+14,Gone With The Wind,,1851682,Other,GoneWithTheWindOfficial,no,0,9906,1,8.58E-04
+1.06121E+14,Gone with the Wind,,829840,Movie,,yes,0,0,1,8.58E-04
+82771544063,Avatar,,47893818,Movie,Avatar,no,0.04,22546,1,0.00115347
+84213402434,Sherlock Holmes,,9847850,Movie,SherlockHolmesMovie,no,0,34165,1,9.99E-04
+1.91584E+14,Alvin and the Chipmunks,,17857261,Movie,AlvinMovies,no,0.01,8834,1,0.00442398
+12887942787,Batman: The Dark Knight,,16940305,Movie,darkknight,no,0,157228,1,0.001840322
+1.38793E+11,Paranormal Activity,,18965119,Movie,paranormalactivity,yes,0,6429,1,0.001280767
+1.09374E+14,The Smurfs (film),,207544,Movie,,yes,0,0,1,8.58E-04
+1.22352E+14,Captain America,,16686131,Fictional Character,CaptainAmerica,no,0.01,160316,1,0.002985829
+1.4496E+11,Green Lantern (Movie),,4144583,Movie,greenlanternmovie,no,0,4112,1,0.004003054
+1.08433E+14,Cars 2,,1422743,Movie,,yes,0,0,1,8.58E-04
+1.20684E+14,Super 8,,984414,Movie,Super8Movie,no,0,747,1,0.001248162
+1.70701E+14,X-Men Movies,,14519899,Movie,xmenmovies,no,0.01,9183,1,0.002078342
+2.54446E+11,Pirates of the Caribbean,,24399707,Movie,PiratesoftheCaribbean,no,0.01,229891,0,0.002629844
+1.80775E+14,Transformers,,,Science,transformersmovie,83065,,32566642,1,0.001558081
+1.56794E+11,Harry Potter,,75457113,Movie,harrypottermovie,no,0.04,216782,1,0.005710638
+2.76563E+14,Eclipse,,12173798,Other,Eclipse,yes,0.01,10369,1,0.002307127
+1.2355E+14,New Moon,,21859452,Movie,NewMoon,yes,0.01,26583,1,0.002234028
+1.06481E+14,New Moon (2009 film),,5074892,TV & Movies,,no,0,0,1,8.58E-04
+8526405673,The Twilight Saga,,45908397,Movie,twilight,yes,0.01,102496,1,0.008094841
+2.29669E+14,Twilight,,22536296,Movie,TwilightMovie,yes,0.12,30005,1,0.002278361
+1.07566E+14,Twilight (2008 film),,1968543,Interest,,no,0,0,1,8.58E-04
+1.48406E+14,The Hangover: Part II,,1738159,Interest,,no,0,0,1,8.58E-04
+74089565764,The Hangover,,21397811,Movie,thehangover,no,0,12803,1,0.006499915
+18128947058,Kung Fu Panda,,22805632,Other,KungFuPanda,no,0.01,10571,1,0.009147942
+1.50444E+14,Limitless,,1524588,Movie,LimitlessMovie,no,0,1493,1,0.001721418
+27590173208,The Shop at NBC Studios,,51366,Shopping & Retail,TheShopAtNBCStudios,yes,0.01,27,1,0.001208457
+90867402851,Universal Orlando Resort,,2224540,Landmark & Historical Place,UniversalOrlandoResort,yes,0.04,113732,1,0.003430738
+57562507157,Green is Universal,,40203,Media/News Company,greenisuniversal,yes,0.02,42,1,0.002062211
+1.21879E+14,Hop,,2510365,Movie,hop,yes,0,1641,1,0.004609462
+60287279495,The Eagle,,111113,Movie,TheEagle,yes,0,113,1,0.001898519
+3.78169E+11,I Am Number Four,,1561441,Movie,IAmNumberFour,no,0,1189,1,9.80E-04
+1.1098E+14,Cowboys & Aliens,,536839,Fictional Character,cowboysandaliens,yes,0,277,1,9.51E-04
+1.17604E+14,Easy A,,5841929,Movie,EasyAMovie,yes,0,4514,1,0.001664843
+1.28869E+14,RED,,2840425,Movie,RED,yes,0,3560,1,8.77E-04
+1.13589E+14,Thor,,12916513,Fictional Character,Thor,no,0.01,10328,1,0.00276362
+1.36761E+14,Movies.com,,111657,Entertainment Website,moviesdotcom,yes,0.03,242,1,0.001552179
+3.3425E+11,VisitScotland,,1015694,Regional Website,visitscotland,yes,0.54,151433,3,0.001473272
+3.83407E+14,Disney Pixar,,14537955,Movie/Television Studio,DisneyPixarUK,no,0.02,2591,3,0.002496536
+1.54881E+14,Disney Pixar,,14537955,Movie/Television Studio,DisneyPixarIT,yes,0.08,2357,3,0.001584127
+4.4194E+14,Disney Pixar,,14537955,Company,DisneyPixarFR,no,0.01,428,3,0.001473272
+5.55428E+14,Disney Pixar,,14537955,Movie/Television Studio,DisneyPixarSpain,yes,0.05,2504,3,0.001473272
+1.38297E+15,Disney Pixar,,14537955,Movie/Television Studio,DisneyPixarDeutschland,yes,0.01,162,3,0.001473272
+6829493713,(RED),,4061404,Non-Profit Organization,joinred,yes,0.06,6992,2,0.002524956
+2.90133E+14,Google Play,,1901465,Product/Service,GooglePlay,no,0.03,7496,3,9.34E-04
+5330548481,Maroon 5,,39256305,Musician/Band,maroon5,no,0.05,66477,2,0.002223853
+12699262021,Best Buy,,7606508,Retail Company,bestbuy,yes,1.32,61019,2,0.002552311
+4.96922E+11,NOOK,,814105,Product/Service,nook,yes,0.19,1905,3,9.34E-04
+1.86632E+14,Amazon Appstore,,357192,Retail Company,amazonappstore,yes,0.03,703,2,0.001585337
+7341997111,Conservation International,,314490,Non-Profit Organization,conservation.intl,yes,0.06,2460,0,0.00611185
+1.31857E+14,Miss Piggy,,1187130,Public Figure,MuppetsMissPiggy,no,0.01,7062,3,0.004717674
+1.3987E+14,Kermit the Frog,,2243085,Artist,MuppetsKermit,no,0.01,6152,3,0.004834757
+2.04294E+14,Fozzie Bear,,374382,Comedian,MuppetsFozzieBear,no,0.01,2204,3,0.004522925
+1.86276E+14,Walter,,81675,Artist,MuppetsWalter,no,0,296,3,0.003740248
+2.33086E+14,Animal,,703379,Musician/Band,MuppetsAnimal,no,0.01,1558,3,0.004442747
+1.20303E+14,Gonzo,,320905,Public Figure,MuppetsGonzo,no,0.01,3907,3,0.003961675
+1.77535E+11,The Muppets,,6287773,TV Show,muppets,no,0.05,30445,3,0.006511317
+2.26843E+14,Where's My Water,,972477,Games/Toys,WheresMyWater,yes,0.07,1655,0,0.00223318
+59685491632,IGN,,4627991,Entertainment Website,ign,yes,0.85,281612,1,0.003128746
+1.47416E+14,Disney D23,,712063,Entertainment Website,DisneyD23,no,0.15,15675,0,0.001954485
+1.16364E+14,Disney Junior,,1617911,TV Network,DisneyJunior,yes,0.57,8106,3,0.001022175
+2.77867E+11,Disney,,50875661,Arts & Entertainment,DisneyUK,no,0.03,7132,3,9.34E-04
+2.10227E+11,Walt Disney Studios,,31177010,Movie/Television Studio,waltdisneystudiosph,yes,0.07,228086,0,9.34E-04
+1.72565E+11,Disney Gift Card,,324227,Product/Service,DisneyGiftCard,no,0.04,176,0,9.34E-04
+1.05005E+14,Disney On Ice,,2046215,Company,DisneyOnIce,yes,0.06,8139,3,9.79E-04
+2.41501E+11,Disney Movie Rewards,,2727434,Website,disneymovierewards,yes,0.15,23908,0,9.79E-04
+1.35041E+11,Walter Elias Disney,,553667,Public Figure,WaltEliasDisney,no,0,356,0,0.001868219
+1.88283E+11,Disney Villains,,2117483,Movie Character,DisneyVillains,no,0.04,8650,0,9.34E-04
+1.57914E+11,Disney Princess,,8615566,Movie Character,DisneyPrincess,no,0.09,59149,0,0.002029811
+1.55669E+11,Walt Disney World,,15996245,Travel Company,WaltDisneyWorld,yes,0.81,268612,0,0.008071289
+6883542487,Marvel,,25466420,Product/Service,Marvel,no,0.27,353313,1,0.005094689
+2.05474E+11,Disney Comics,,14247,Media/News Company,,yes,0.02,104,0,0.001033836
+1.44903E+11,Woody,,7919349,Movie Character,ToyStoryWoody,no,0.01,4017,3,0.002254956
+1.28304E+11,Buzz Lightyear,,4555713,Movie Character,BuzzLightyear,no,0.01,2741,3,0.001879008
+2.67413E+11,Lotso,,1986054,Movie Character,ToyStoryLotso,no,0,737,3,0.003172515
+2.97939E+11,Buttercup,,2286267,Movie Character,ToyStoryButtercup,no,0,1041,3,0.002601927
+2.67805E+11,Twitch,,24365,Movie,PixarTwitch,no,0,11,3,0.001310065
+2.6446E+11,Trixie,,1561118,Movie Character,ToyStoryTrixie,no,0,584,3,0.002792128
+2.82525E+11,Stretch,,4212739,Movie Character,ToyStoryStretch,no,0,1573,3,0.00277884
+2.68119E+11,Sparks,,574261,Movie Character,ToyStorySparks,no,0,186,3,0.001310065
+1.41499E+11,Rex,,3898512,Movie Character,ToyStoryRex,no,0,1630,3,0.001532779
+2.64569E+11,Peas-in-a-Pod,,1874795,Movie Character,ToyStoryPeasInAPod,no,0,749,3,0.001310065
+2.59498E+11,Mr. Pricklepants,,4513475,Movie Character,ToyStoryPricklepants,no,0,2011,3,0.002601927
+1.23349E+11,Jessie,,4847441,Movie Character,ToyStoryJessie,no,0,2193,3,0.001310065
+1.18688E+11,Hamm,,2311640,Movie Character,ToyStoryHamm,no,0,1098,3,0.001310065
+2.79165E+11,Dolly,,2655730,Movie Character,ToyStoryDolly,no,0,1198,3,0.002601927
+2.90529E+11,Chunk,,977648,Movie Character,ToyStoryChunk,no,0,340,3,0.002515096
+2.92741E+11,Chatter Telephone,,1565866,Movie Character,ToyStoryChatter,no,0,546,3,0.001310065
+2.87792E+11,Bookworm,,1589886,Movie Character,ToyStoryBookworm,no,0,608,3,0.002320518
+2.64699E+11,Big Baby,,1982972,Movie Character,ToyStoryBigBaby,no,0,807,3,0.002977438
+56368119740,Captain Jack Sparrow,,20346998,Movie Character,CaptainJackSparrow,no,0.02,247574,0,0.002052079
+12393266550,The Lion King,,24049741,Movie,DisneyTheLionKing,no,0.08,106658,0,0.001346804
+99911703708,The Princess and the Frog,,4058814,Movie,ThePrincessandtheFrog,no,0.02,5612,0,0.005898703
+35044734096,Beauty and the Beast,,17269241,Movie,DisneyBeautyAndTheBeast,no,0.07,340003,0,0.006037861
+1.04789E+11,Walt Disney Records,,4768430,Record Label,disneymusic,no,0.09,32022,0,0.001511202
+2.86893E+11,App Store,,14627082,Product/Service,AppStore,yes,0.1,38115,2,0.002588633
+1.31676E+11,Mickey Mouse,,13997134,Fictional Character,MickeyMouse,no,0.06,52855,0,0.00217896
+11081890741,Disneyland,,17812522,Travel Company,Disneyland,yes,0.1,195590,0,0.010198303
+99792857339,Tron,,5811122,Movie,Tron,no,0.01,13693,0,0.002440757
+96787126667,Disney Alice,,15509362,Movie,DisneyAlice,no,0.01,9997,0,0.00272289
+20531316728,Facebook,,186817387,Product/Service,facebook,no,0,122271,2,0.002941708
+1.2322E+14,Baby Einstein,,271903,Baby Goods/Kids Goods,BabyEinstein,yes,0.06,321,0,9.90E-04
+3.52937E+11,Disney Stories,,142682,Games/Toys,DisneyStories,no,0,347,0,0.001053064
+2.67162E+11,Flik,,2943659,Movie Character,ABugsLifeFlik,no,0,1152,0,0.001676998
+1.43547E+11,Dot,,2633272,Movie Character,ABugsLifeDot,no,0,1093,0,0.001676998
+1.23699E+11,EVE,,2761295,Movie Character,WallEEVE,no,0,1256,0,0.001249779
+1.23327E+11,Russell,,6719662,Movie Character,UPRussell,no,0,3324,0,0.002090363
+1.22277E+11,Kevin,,6070512,Movie Character,UPKevin,no,0,2971,0,0.002090363
+1.23002E+11,Ellie,,3592659,Movie Character,UpEllie,no,0,1818,0,0.002090363
+1.2446E+11,Dug,,6185971,Movie Character,UPDug,no,0,5123,0,0.002090363
+1.35249E+11,Carl Fredricksen,,2252389,Movie Character,UPCarlFredricksen,no,0,1220,0,0.002090363
+2.06567E+14,Frozone,,982499,Movie Character,TheIncrediblesFrozone,no,0,344,0,0.00127301
+1.5933E+14,Syndrome,,1127926,Movie Character,TheIncrediblesSyndrome,no,0,349,0,0.00127301
+2.59913E+11,Bob Parr (Mr. Incredible),,1824910,Movie Character,TheIncrediblesMrIncredible,no,0,798,0,0.002944383
+1.34948E+11,Dashiell “Dash” Parr,,2843714,Movie Character,TheIncrediblesDashiellDashParr,no,0,1110,0,0.002944383
+1.34695E+11,Edna “E” Mode,,2082845,Movie Character,TheIncrediblesEdna,no,0,820,0,0.002553126
+1.3353E+11,Jack-Jack Parr,,3278011,Movie Character,TheIncrediblesJackJack,no,0,1280,0,0.002553126
+1.34628E+11,Helen Parr (Elastigirl),,2112357,Movie Character,TheIncrediblesElastigirl,no,0,782,0,0.002944383
+1.32669E+11,Crush,,5993003,Movie Character,FindingNemoCrush,no,0.01,3381,0,0.002311066
+1.3677E+11,Squirt,,7435202,Movie Character,FindingNemoSquirt,no,0.01,4806,0,0.002311066
+24642632550,Nemo,,21671168,Movie Character,FindingNemoNemo,no,0.01,12673,0,0.002311066
+35098570694,Dory,,24633741,Movie Character,FindingNemoDory,no,0.03,30923,0,0.00288867
+20385151754,Kodak Moments,,709396,Camera/Photo,KodakMomentsUS,yes,0.07,439,2,0.003249679
+80593611889,State Farm,,1936177,Insurance Company,statefarm,no,0.02,18611,0,0.001290658
+1.44997E+14,Finn McMissile,,1465289,Movie Character,CarsFinnMcMissile,no,0,470,0,0.001290658
+1.8142E+14,Walt Disney Studios,,31177011,Movie/Television Studio,DisneyStudiosLA,yes,0.1,689601,0,0.001290658
+1.25029E+11,Doc Hudson,,1661712,Movie Character,CarsDocHudson,no,0,568,0,0.002429736
+1.39798E+11,Sally,,2624640,Movie Character,CarsSally,no,0,823,0,0.002429736
+1.24596E+11,Mater,,6234596,Movie Character,CarsMater,no,0,3989,0,0.003475361
+1.44378E+11,Lightning McQueen,,3614269,Movie Character,CarsLightningMcQueen,no,0.01,5249,0,0.003475361
+1.44398E+14,Disney Family Movies,,293463,Movie,DisneyFamilyMovies,no,0.05,524,0,0.003800578
+7.79609E+14,Disney Family,,679257,Website,officialdisneyfamily,no,0.06,3006,0,0.006116065
+1.78798E+11,Prep & Landing,,43302,TV Show,PrepandLanding,no,0,10,0,0.006186371
