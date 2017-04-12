@@ -114,7 +114,7 @@ def pie_chart(data):
 if __name__ == '__main__':
 
 	# open dataset1.csv file
-	with open('dataset1.csv','r') as f:
+	with open('dataset3.csv','r') as f:
 		for row in f:
 			# get labels from csv
 			labels = row[:-1].split(',')
@@ -145,7 +145,7 @@ if __name__ == '__main__':
 	f.close()
 	print"done dataset1"
 	# open dataset2.csv file
-	with open('dataset2.csv','r') as f:
+	with open('dataset4.csv','r') as f:
 		reader = csv.reader(f)
 		for line in reader:
 			# read file line by line
